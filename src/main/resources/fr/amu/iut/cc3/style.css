@@ -1,4 +1,8 @@
 
+.root {
+    -fx-background-color: "#11ffff";
+}
+
 .toile {
     -fx-fill: "white";
     -fx-stroke: "#919090";
